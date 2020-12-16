@@ -1,0 +1,20 @@
+
+index user 
+melihat jumlah debit air, perkiraan harga yang harus dibayar, history pembayaran : 
+-debit airnya = card view + grafik (peningkatan debit dan waktu )
+- Perkiraan harga = card view aja
+- History pembayaran = buat menu baru (dalam bentuk tabel)
+
+operator 
+switch or on/off perangkat user yang blm mrmbyar
++indx user 
+- perngkat user yang blm membayar (tabel mngkin)
+  buat menu baru aja 
+
+admin 
+manajemen operator, user, device, sama petugas yang dikirim untuk pembaikan 
+- menu baru semua 
+
+css sbadmin2
+
+data dummy format json  
